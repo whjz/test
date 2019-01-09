@@ -9,6 +9,7 @@
 /captures
 .externalNativeBuild
 
+# test
 
 # Built application files
 *.apk
