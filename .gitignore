@@ -9,7 +9,7 @@
 /captures
 .externalNativeBuild
 
-# test zxz branch
+# merge master and zxz branchs 
 # Built application files
 *.apk
 *.ap_
